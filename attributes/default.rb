@@ -13,7 +13,7 @@ default[:rvm_common_ruby_dependencies] = case platform
       "libcurl3",
       "libcurl3-gnutls",
       "libcurl4-openssl-dev",
-      "libreadline",
+      "libreadline5",
       "libreadline-dev",
       "libssl-dev",
       "libsqlite3-0",
